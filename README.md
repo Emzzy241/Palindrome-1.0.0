@@ -1,7 +1,7 @@
 # Palidromes 1.0.0
 #### made by Mojiboye Emmanuel
 
-#### An application that checks if a string is a palindrome
+#### An application that checks if a word is a palindrome
 
 ## Technologies Used
 * Git
